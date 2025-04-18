@@ -22,18 +22,34 @@ The dataset includes:
 - **Menu categories**: Asian, Italian, American, Mexican
 
 ---
+## 📌 Summary of Insights
 
-## 🔍 Key Findings
+This section highlights the key takeaways from the customer behavior analysis conducted on restaurant sales data.
 
-- **Total Sales** were $159,218 over 3 months.
--  **Asian** is the highest selling **food category** across all customer orders.
-- The **Hamburger** is the highest selling **individual food item**.
-- The **Top 5 highest-paying orders** had the **most Italian menu items** compared to other categories.
+### 1. Top Performing Food Category: Asian
+- Asian cuisine recorded the highest overall sales volume.
+- Indicates a strong and consistent preference among customers.
+
+### 2. Best-Selling Food Item: Hamburger
+- The hamburger was the most frequently ordered single item.
+- Despite not belonging to the top category, it shows exceptional standalone popularity.
+
+### 3. High-Value Orders Prefer Italian Cuisine
+- The top 5 highest-paying orders featured the most Italian menu items.
+- Suggests a link between Italian cuisine and higher average order value.
+
+---
+
+## 💡 Recommendations
+
+- **Promote Asian meal bundles or lunch specials** to further boost sales of the most popular category.
+- **Upsell gourmet or combo versions of the hamburger** to increase revenue from a high-demand item.
+- **Feature Italian dishes in fine dining** to attract and retain high-spending customers.
 
 ---
 
 ## 🛠️ Tools Used
-- **Microsoft Excel**
+- **Microsoft Excel** (clean data)
 - **SQL** (for querying structured data)
 - **Tableau** (for dashboarding)
 
@@ -43,7 +59,5 @@ The dataset includes:
 ![Restaurant Customer Behavior Vis](https://github.com/user-attachments/assets/7a5583e8-884b-4f9e-850c-cff8cd4f1c83)
 
 
----
 
-## 📁 Folder Structure
 

@@ -42,7 +42,7 @@ This section highlights the key takeaways from the customer behavior analysis co
 
 ## 💡 Recommendations
 
-- **Promote Asian meal bundles or lunch specials** to further boost sales of the most popular category.
+- **Promote Asian lunch specials** to further boost sales of the most popular category.
 - **Upsell gourmet or combo versions of the hamburger** to increase revenue from a high-demand item.
 - **Feature Italian dishes in fine dining** to attract and retain high-spending customers.
 

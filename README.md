@@ -18,8 +18,8 @@ This data analysis project explores customer purchasing behavior at a restaurant
 
 The dataset includes:
 - **Order details**: order IDs, item names, categories, prices
-- **Customer purchase history**
 - **Menu categories**: Asian, Italian, American, Mexican
+- **Customer purchase history**
 
 ---
 ## 📌 Summary of Insights
@@ -49,7 +49,7 @@ This section highlights the key takeaways from the customer behavior analysis co
 ---
 
 ## 🛠️ Tools Used
-- **Microsoft Excel** (clean data)
+- **Microsoft Excel** (for cleaning data)
 - **SQL** (for querying structured data)
 - **Tableau** (for dashboarding)
 

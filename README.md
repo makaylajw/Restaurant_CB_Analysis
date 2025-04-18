@@ -57,7 +57,8 @@ This section highlights the key takeaways from the customer behavior analysis co
 
 ## 📈 Visuals
 
-![Restaurant Customer Behavior Visuals 1](https://github.com/user-attachments/assets/b3179694-6489-4bec-a47a-f1e597a02fb0)
+![Restaurant Customer Behavior Visuals 1](https://github.com/user-attachments/assets/1ed20866-d5b8-49bc-a51e-be973d272237)
+
 
 
 

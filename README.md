@@ -25,6 +25,7 @@ The dataset includes:
 
 ## 🔍 Key Findings
 
+- **Total Sales** $159,218 over 3 months.
 -  **Asian** is the highest selling **food category** across all customer orders.
 - The **Hamburger** is the highest selling **individual food item**.
 - The **Top 5 highest-paying orders** had the **most Italian menu items** compared to other categories.
@@ -32,15 +33,14 @@ The dataset includes:
 ---
 
 ## 🛠️ Tools Used
-
-- **SQL** (for querying structured data)
 - **Microsoft Excel**
+- - **SQL** (for querying structured data)
 - **Tableau** (for dashboarding)
 
 ---
 
 ## 📈 Visuals
-
+![Restaurant Customer Behavior Vis](https://github.com/user-attachments/assets/7a5583e8-884b-4f9e-850c-cff8cd4f1c83)
 
 
 ---
